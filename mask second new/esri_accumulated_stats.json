@@ -1,0 +1,43 @@
+{
+  "Version" : 1,
+  "NumBands" : 1,
+  "TileSizeX" : 256,
+  "TileSizeY" : 256,
+  "NumClasses" : 1,
+  "NumTiles" : 6,
+  "OutputFeatures" : true,
+  "MetaDataMode" : "KITTI_rectangles",
+  "Classes" : [
+    {
+      "ClassValue" : 1,
+      "ClassName" : "mask2"
+    }
+  ],
+  "FeatureStats" : {
+    "NumClasses" : 1,
+    "NumImagesTotal" : 6,
+    "NumFeaturesTotal" : 6,
+    "NumImagesPerClass" : [
+      6
+    ],
+    "NumFeaturesPerClass" : [
+      6
+    ],
+    "NumFeaturesPerImage" : {
+      "Min" : 1,
+      "Max" : 1,
+      "Mean" : 1,
+      "Sum" : 6,
+      "Count" : 6
+    },
+    "FeatureAreaPerClass" : [
+      {
+        "Min" : 367685.88860268879,
+        "Max" : 367685.89732856926,
+        "Mean" : 367685.89372335159,
+        "Sum" : 2206115.3623401094,
+        "Count" : 6
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+images\000000000.tif  labels\000000000.txt 
+images\000000001.tif  labels\000000001.txt 
+images\000000002.tif  labels\000000002.txt 
+images\000000003.tif  labels\000000003.txt 
+images\000000004.tif  labels\000000004.txt 
+images\000000005.tif  labels\000000005.txt 
